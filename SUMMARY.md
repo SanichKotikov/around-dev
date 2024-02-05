@@ -5,6 +5,7 @@
   * [Про разделение кода (чанки)](./development/2024-01-25.md)
   * [Паттерн switch(true)](./development/2024-01-27.md)
   * [Типичная ошибка использования .sort()](./development/2024-02-02.md)
+  * [Пример улучшения функции сортировки](./development/2024-02-05.md)
 
 * Typescript
   * [Typescript: Union типы на практике](./typescript/2024-01-19.md)
