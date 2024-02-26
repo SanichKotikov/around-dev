@@ -6,6 +6,7 @@
   * [Паттерн switch(true)](./development/2024-01-27.md)
   * [Типичная ошибка использования .sort()](./development/2024-02-02.md)
   * [Пример улучшения функции сортировки](./development/2024-02-05.md)
+  * [Автоматическая генерация TypeScript типов API, помогает или нет?](./development/2024-02-26.md)
 
 * Typescript
   * [Typescript: Union типы на практике](./typescript/2024-01-19.md)
