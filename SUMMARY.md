@@ -14,6 +14,9 @@
 * React
   * [Архитектурная ошибка модальных окон в React](./react/2024-01-26.md)
 
+* SolidJS
+  * [Suspense + createResource](./solid/2025-01-12.md)
+
 * Webpack, Vite и другие инструменты
   * [Как ускорить Webpack сборку проекта на Typescript с 42 до 16 секунд](./tools/2024-01-02.md)
   * [Пара нюансов в вопросе Webpack vs Vite](./tools/2024-01-11.md)
