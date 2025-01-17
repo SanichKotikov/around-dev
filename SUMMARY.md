@@ -8,6 +8,7 @@
   * [Пример улучшения функции сортировки](./development/2024-02-05.md)
   * [Автоматическая генерация TypeScript типов API, помогает или нет?](./development/2024-02-26.md)
   * [Архитектура: размазывание ответственности](./development/2025-01-15.md)
+  * [Про AbortController](./development/2025-01-17.md)
 
 * Typescript
   * [Typescript: Union типы на практике](./typescript/2024-01-19.md)
