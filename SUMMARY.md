@@ -17,6 +17,7 @@
 * React
   * [Архитектурная ошибка модальных окон в React](./react/2024-01-26.md)
   * [Что не так с React](./react/2025-01-14.md)
+  * [Освобождение памяти в React](./react/2025-01-27.md)
 
 * SolidJS
   * [Suspense + createResource](./solid/2025-01-12.md)
