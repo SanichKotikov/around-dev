@@ -10,6 +10,7 @@
   * [Архитектура: размазывание ответственности](./development/2025-01-15.md)
   * [Про AbortController](./development/2025-01-17.md)
   * [Про SOLID](./development/2025-01-25.md)
+  * [Пара слов о Feature-Sliced Design (FSD)](./development/2025-01-31.md)
 
 * Typescript
   * [Typescript: Union типы на практике](./typescript/2024-01-19.md)
