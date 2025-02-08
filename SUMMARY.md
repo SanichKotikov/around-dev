@@ -14,6 +14,7 @@
 
 * Typescript
   * [Typescript: Union типы на практике](./typescript/2024-01-19.md)
+  * [Интересное ограничение Typescript](./typescript/2025-02-08.md)
 
 * React
   * [Архитектурная ошибка модальных окон в React](./react/2024-01-26.md)
