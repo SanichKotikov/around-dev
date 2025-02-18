@@ -35,6 +35,7 @@
   * [Разделение кода (на чанки) в Webpack](./tools/2024-02-06.md)
   * [Разделение кода: Webpack против Vite](./tools/2024-02-07.md)
   * [Предупреждение для тех, кто хочет перейти с Webpack на Vite](./tools/2025-01-07.md)
+  * [Overrides в package.json (NPM)](./tools/2025-02-18.md)
 
 * Разное
   * [ERR_UPLOAD_FILE_CHANGED](./other/2024-08-02.md)
