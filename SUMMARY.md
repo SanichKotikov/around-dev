@@ -28,6 +28,7 @@
 * SolidJS
   * [Suspense + createResource](./solid/2025-01-12.md)
   * [Рендер массивов в SolidJS](./solid/2025-01-20.md)
+  * [Пример оптимизации EmojiList в SolidJS](./solid/2025-03-15.md)
 
 * Webpack, Vite и другие инструменты
   * [Как ускорить Webpack сборку проекта на Typescript с 42 до 16 секунд](./tools/2024-01-02.md)
