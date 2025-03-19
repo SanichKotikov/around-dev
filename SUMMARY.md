@@ -13,6 +13,7 @@
   * [Пара слов о Feature-Sliced Design (FSD)](./development/2025-01-31.md)
   * [Архитектура: функциональное проектирование](./development/2025-02-10.md)
   * [Архитектура: раскладываем код по папкам](./development/2025-02-13.md)
+  * [Data Flow и модификация данных](./development/2025-03-19.md)
 
 * Typescript
   * [Typescript: Union типы на практике](./typescript/2024-01-19.md)
