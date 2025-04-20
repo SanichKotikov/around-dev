@@ -32,6 +32,7 @@
   * [Пример оптимизации EmojiList в SolidJS](./solid/2025-03-15.md)
   * [Children в SolidJS и порядок выполнения](./solid/2025-04-12.md)
   * [React != SolidJS на примере эффектов](./solid/2025-04-14.md)
+  * [Принудительное выполнение компонента в SolidJS](./solid/2025-04-20.md)
 
 * Webpack, Vite и другие инструменты
   * [Как ускорить Webpack сборку проекта на Typescript с 42 до 16 секунд](./tools/2024-01-02.md)
