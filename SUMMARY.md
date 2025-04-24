@@ -19,6 +19,7 @@
   * [Typescript: Union типы на практике](./typescript/2024-01-19.md)
   * [Интересное ограничение Typescript](./typescript/2025-02-08.md)
   * [Branded Types в TypeScript](./typescript/2025-02-22.md)
+  * [TypeScript + .filter(Boolean)](./typescript/2025-04-24.md)
 
 * React
   * [Архитектурная ошибка модальных окон в React](./react/2024-01-26.md)
