@@ -45,6 +45,7 @@
   * [Предупреждение для тех, кто хочет перейти с Webpack на Vite](./tools/2025-01-07.md)
   * [Overrides в package.json (NPM)](./tools/2025-02-18.md)
   * [Vite vs Webpack: нюанс с React.memo()](./tools/2025-03-28.md)
+  * [Vite vs Webpack: PURE комментарии](./tools/2025-05-07.md)
 
 * CSS
   * [Минимальный “джентльменский набор” для стилизации разметки](./css/2025-03-06.md)
