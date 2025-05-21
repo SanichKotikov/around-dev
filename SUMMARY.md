@@ -28,6 +28,7 @@
   * [Что не так с React](./react/2025-01-14.md)
   * [Освобождение памяти в React](./react/2025-01-27.md)
   * [Batching обновлений в React и SolidJS](./react/2025-01-28.md)
+  * [Насколько React “жирный”?](./react/2025-05-21.md)
 
 * SolidJS
   * [Suspense + createResource](./solid/2025-01-12.md)
