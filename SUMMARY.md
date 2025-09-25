@@ -30,6 +30,7 @@
   * [Освобождение памяти в React](./react/2025-01-27.md)
   * [Batching обновлений в React и SolidJS](./react/2025-01-28.md)
   * [Насколько React “жирный”?](./react/2025-05-21.md)
+  * [Приколы setState в React, и как оно в SolidJS](./react/2025-09-25.md)
 
 * SolidJS
   * [Suspense + createResource](./solid/2025-01-12.md)
