@@ -55,6 +55,7 @@
   * [Overrides в package.json (NPM)](./tools/2025-02-18.md)
   * [Vite vs Webpack: нюанс с React.memo()](./tools/2025-03-28.md)
   * [Vite vs Webpack: PURE комментарии](./tools/2025-05-07.md)
+  * [Проверяем импорты через ESLint](./tools/2025-11-27.md);
 
 * CSS
   * [Минимальный “джентльменский набор” для стилизации разметки](./css/2025-03-06.md)
