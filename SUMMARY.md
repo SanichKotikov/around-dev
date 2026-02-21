@@ -40,6 +40,7 @@
   * [Приколы setState в React, и как оно в SolidJS](./react/2025-09-25.md)
   * [useEffectEvent](./react/2025-10-24.md)
   * [React: memo и useMemo](./react/2026-02-10.md)
+  * [React Compiler](./react/2026-02-21.md)
 
 * SolidJS
   * [Suspense + createResource](./solid/2025-01-12.md)
